@@ -1,6 +1,6 @@
 package com.jml.util;
 
-s
+
 public enum ResultCode {
     SUCCESS("0", "成功"),
     ERROR("-1", "系统异常"),
